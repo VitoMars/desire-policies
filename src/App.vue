@@ -45,7 +45,6 @@ nav {
 }
 
 nav a.router-link-exact-active {
-  /* color: var(--color-text); */
   color: #e5ab50;
 }
 

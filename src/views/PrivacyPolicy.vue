@@ -1,6 +1,6 @@
 <template>
-  <div class="container">
-    <div class="container2">
+  <div class="main-container">
+    <div class="container">
       <div class="responsive-margin">
         <div class="title">Privacy Policy</div>
         <p class="center">Updated at 2023-10-05</p>
@@ -538,7 +538,9 @@
 
 </div></template>
 
-<style>.container {
+<style>
+
+.main-container {
   /* min-height: 100vh; */
   /* display: flex; */
   /* align-items: center; */
@@ -548,7 +550,7 @@
   background-color: white;
 }
 
-.container2 {
+.container {
   margin: auto;
   padding-top: 50px;
   padding-bottom: 50px;
