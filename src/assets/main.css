@@ -1,0 +1,78 @@
+@import "./base.css";
+
+#app {
+  max-width: 1140px;
+  margin: 0 auto;
+  /* padding: 2rem; */
+
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  /* color: hsla(160, 100%, 37%, 1); */
+  color: grey;
+  transition: 0.4s;
+}
+
+nav > a {
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+  color: #474c52;
+  font-weight: 600;
+}
+
+p,
+li {
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.6;
+  color: #93a5be;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 576px) {
+  #app {
+    max-width: 540px;
+    margin: 0 auto;
+    font-weight: normal;
+  }
+}
+
+@media (min-width: 768px) {
+  #app {
+    max-width: 720px;
+    margin: 0 auto;
+    font-weight: normal;
+  }
+}
+
+@media (min-width: 992px) {
+  #app {
+    max-width: 960px;
+    margin: 0 auto;
+    font-weight: normal;
+  }
+}
+
+@media (min-width: 1200px) {
+  #app {
+    max-width: 1140px;
+    margin: 0 auto;
+    font-weight: normal;
+  }
+}
