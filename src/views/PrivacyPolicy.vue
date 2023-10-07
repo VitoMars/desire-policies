@@ -138,7 +138,7 @@
           a
           shared location, and type of the device used to visit the app. They may aggregate information about our
           advertising
-          and what you see on the app and then provide auditing, research and reporting for us and our advertisers.   We
+          and what you see on the app and then provide auditing, research and reporting for us and our advertisers. We
           may
           also disclose personal and non-personal information about you to government or law enforcement officials or
           private
