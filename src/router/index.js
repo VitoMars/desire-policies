@@ -1,13 +1,13 @@
 import { createRouter, createWebHistory } from 'vue-router'
-// import HomeView from '../views/HomeView.vue'
 import PrivacyPolicy from "../views/PrivacyPolicy.vue"
+import TermsAndConditions from "../views/TermsAndConditions.vue"
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     {
       path: '/',
-      name: 'home',
+      name: 'privacy-policy',
       component: PrivacyPolicy
     },
     // {
@@ -15,6 +15,11 @@ const router = createRouter({
     //   name: 'privacy_policy',
     //   component: PrivacyPolicy
     // }
+    {
+      path: '/terms-and-conditions',
+      name: 'terms-and-conditions',
+      component: TermsAndConditions
+    }
   ]
 })
 

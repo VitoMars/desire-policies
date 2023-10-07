@@ -5,8 +5,8 @@
         <div class="title">Privacy Policy</div>
         <p class="center">Updated at 2023-10-05</p>
 
-        <br>
-        <br>
+        <br />
+        <br />
 
         <p> Desire (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your
           personal information is collected, used, and disclosed by Desire.</p>
