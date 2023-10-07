@@ -2,7 +2,7 @@
   <div class="main-container">
     <div class="container">
       <div class="responsive-margin">
-        <div class="title">Privacy Policy</div>
+        <h1 class="title">Privacy Policy</h1>
         <p class="center">Updated at 2023-10-05</p>
 
         <br />
@@ -445,131 +445,92 @@
             that a person would reasonably expect.</li>
           <li>Personal data should only be collected to fulfil a specific purpose and it should only be used for that
             purpose.
-          Organizations must specify why they need the personal data when they collect it.</li>
-        <li>Personal data should be held no longer than necessary to fulfil its purpose.</li>
-        <li>People covered by the GDPR have the right to access their own personal data. They can also request a copy of
-          their data, and that their data be updated, deleted, restricted, or moved to another organization.</li>
-      </ul>
+            Organizations must specify why they need the personal data when they collect it.</li>
+          <li>Personal data should be held no longer than necessary to fulfil its purpose.</li>
+          <li>People covered by the GDPR have the right to access their own personal data. They can also request a copy of
+            their data, and that their data be updated, deleted, restricted, or moved to another organization.</li>
+        </ul>
 
-      <h1>Why is GDPR important?</h1>
-      <p>GDPR adds some new requirements regarding how companies should protect individuals' personal data that they
-        collect
-        and process. It also raises the stakes for compliance by increasing enforcement and imposing greater fines for
-        breach. Beyond these facts it's simply the right thing to do. At Desire we strongly believe that your data
-        privacy
-        is very important and we already have solid security and privacy practices in place that go beyond the
-        requirements
-        of this new regulation.</p>
+        <h1>Why is GDPR important?</h1>
+        <p>GDPR adds some new requirements regarding how companies should protect individuals' personal data that they
+          collect
+          and process. It also raises the stakes for compliance by increasing enforcement and imposing greater fines for
+          breach. Beyond these facts it's simply the right thing to do. At Desire we strongly believe that your data
+          privacy
+          is very important and we already have solid security and privacy practices in place that go beyond the
+          requirements
+          of this new regulation.</p>
 
-      <h1>Individual Data Subject's Rights - Data Access, Portability and Deletion</h1>
-      <p>We are committed to helping our customers meet the data subject rights requirements of GDPR. Desire processes
-        or
-        stores all personal data in fully vetted, DPA compliant vendors. We do store all conversation and personal data
-        for
-        up to 6 years unless your account is deleted. In which case, we dispose of all data in accordance with our Terms
-        of
-        Service and Privacy Policy, but we will not hold it longer than 60 days.</p>
-      <p>We are aware that if you are working with EU customers, you need to be able to provide them with the ability to
-        access, update, retrieve and remove personal data. We got you! We've been set up as self service from the start
-        and
-        have always given you access to your data and your customers data. Our customer support team is here for you to
-        answer any questions you might have about working with the API.</p>
-      <h1>California Residents</h1>
-      <p>The California Consumer Privacy Act (CCPA) requires us to disclose categories of Personal Information we
-        collect
-        and how we use it, the categories of sources from whom we collect Personal Information, and the third parties
-        with
-        whom we share it, which we have explained above.</p>
-      <p>We are also required to communicate information about rights California residents have under California law.
-        You
-        may exercise the following rights:</p>
-      <ul>
-        <li>Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories
+        <h1>Individual Data Subject's Rights - Data Access, Portability and Deletion</h1>
+        <p>We are committed to helping our customers meet the data subject rights requirements of GDPR. Desire processes
+          or
+          stores all personal data in fully vetted, DPA compliant vendors. We do store all conversation and personal data
+          for
+          up to 6 years unless your account is deleted. In which case, we dispose of all data in accordance with our Terms
           of
-          Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are
-          collected or used by us; (3) categories of sources from which we collect Personal Information; and (4)
-          specific
-          pieces of Personal Information we have collected about you.</li>
-        <li>Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.</li>
-        <li>Right to Delete. You may submit a verifiable request to close your account and we will delete Personal
-          Information about you that we have collected.</li>
-        <li>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</li>
-      </ul>
-      <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights,
-        please contact us.</p>
-      <p>We do not sell the Personal Information of our users.</p>
-      <p>For more information about these rights, please contact us.</p>
-      <h1>California Online Privacy Protection Act (CalOPPA)</h1>
-      <p>CalOPPA requires us to disclose categories of Personal Information we collect and how we use it, the categories
-        of
-        sources from whom we collect Personal Information, and the third parties with whom we share it, which we have
-        explained above.</p>
-      <p>CalOPPA users have the following rights:</p>
-      <ul>
-        <li>Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories
+          Service and Privacy Policy, but we will not hold it longer than 60 days.</p>
+        <p>We are aware that if you are working with EU customers, you need to be able to provide them with the ability to
+          access, update, retrieve and remove personal data. We got you! We've been set up as self service from the start
+          and
+          have always given you access to your data and your customers data. Our customer support team is here for you to
+          answer any questions you might have about working with the API.</p>
+        <h1>California Residents</h1>
+        <p>The California Consumer Privacy Act (CCPA) requires us to disclose categories of Personal Information we
+          collect
+          and how we use it, the categories of sources from whom we collect Personal Information, and the third parties
+          with
+          whom we share it, which we have explained above.</p>
+        <p>We are also required to communicate information about rights California residents have under California law.
+          You
+          may exercise the following rights:</p>
+        <ul>
+          <li>Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories
+            of
+            Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are
+            collected or used by us; (3) categories of sources from which we collect Personal Information; and (4)
+            specific
+            pieces of Personal Information we have collected about you.</li>
+          <li>Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.</li>
+          <li>Right to Delete. You may submit a verifiable request to close your account and we will delete Personal
+            Information about you that we have collected.</li>
+          <li>Request that a business that sells a consumer's personal data, not sell the consumer's personal data.</li>
+        </ul>
+        <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights,
+          please contact us.</p>
+        <p>We do not sell the Personal Information of our users.</p>
+        <p>For more information about these rights, please contact us.</p>
+        <h1>California Online Privacy Protection Act (CalOPPA)</h1>
+        <p>CalOPPA requires us to disclose categories of Personal Information we collect and how we use it, the categories
           of
-          Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are
-          collected or used by us; (3) categories of sources from which we collect Personal Information; and (4)
-          specific
-          pieces of Personal Information we have collected about you.</li>
-        <li>Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.</li>
-        <li>Right to Delete. You may submit a verifiable request to close your account and we will delete Personal
-          Information about you that we have collected.</li>
-        <li>Right to request that a business that sells a consumer's personal data, not sell the consumer's personal
-          data.
-        </li>
-      </ul>
-      <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights,
-        please contact us.</p>
-      <p>We do not sell the Personal Information of our users.</p>
-      <p>For more information about these rights, please contact us.</p>
-      <h1>Contact Us</h1>
-      <p>Don't hesitate to contact us if you have any questions.</p>
-      <ul>
-        <li>
-          Via Email: desire.officialcommunications@gmail.com
-        </li>
-      </ul>
+          sources from whom we collect Personal Information, and the third parties with whom we share it, which we have
+          explained above.</p>
+        <p>CalOPPA users have the following rights:</p>
+        <ul>
+          <li>Right to Know and Access. You may submit a verifiable request for information regarding the: (1) categories
+            of
+            Personal Information we collect, use, or share; (2) purposes for which categories of Personal Information are
+            collected or used by us; (3) categories of sources from which we collect Personal Information; and (4)
+            specific
+            pieces of Personal Information we have collected about you.</li>
+          <li>Right to Equal Service. We will not discriminate against you if you exercise your privacy rights.</li>
+          <li>Right to Delete. You may submit a verifiable request to close your account and we will delete Personal
+            Information about you that we have collected.</li>
+          <li>Right to request that a business that sells a consumer's personal data, not sell the consumer's personal
+            data.
+          </li>
+        </ul>
+        <p>If you make a request, we have one month to respond to you. If you would like to exercise any of these rights,
+          please contact us.</p>
+        <p>We do not sell the Personal Information of our users.</p>
+        <p>For more information about these rights, please contact us.</p>
+        <h1>Contact Us</h1>
+        <p>Don't hesitate to contact us if you have any questions.</p>
+        <ul>
+          <li>
+            Via Email: desire.officialcommunications@gmail.com
+          </li>
+        </ul>
+      </div>
     </div>
-
   </div>
-
-
-
-</div></template>
-
-<style>
-
-.main-container {
-  /* min-height: 100vh; */
-  /* display: flex; */
-  /* align-items: center; */
-  /* background-color: aliceblue; */
-  /* margin: 30px auto; */
-  /* max-width: 900px; */
-  background-color: white;
-}
-
-.container {
-  margin: auto;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  max-width: 900px;
-}
-
-.responsive-margin {
-  margin-left: 30px;
-  margin-right: 30px;
-}
-
-.title {
-  text-align: center;
-  font-size: 3.5rem;
-  font-weight: 700;
-  color: #3f4554;
-}
-
-.center {
-  text-align: center;
-}
-</style>
+</template>

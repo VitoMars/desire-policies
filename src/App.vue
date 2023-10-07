@@ -5,8 +5,11 @@ import { RouterLink, RouterView } from "vue-router";
 <template>
   <nav>
     <RouterLink to="/">Privacy Policy</RouterLink>
-    <!-- <RouterLink to="/privacy_policy">Privacy Policy</RouterLink> -->
     <RouterLink to="/terms-and-conditions">Terms & Conditions</RouterLink>
+    <RouterLink to="/disclaimer">Disclaimer</RouterLink>
+    <RouterLink to="/cookie-policy">Cookie Policy</RouterLink>
+    <RouterLink to="/eula">EULA</RouterLink>
+    <RouterLink to="/return-and-refund">Return & Refund Policy</RouterLink>
   </nav>
 
   <RouterView />
@@ -24,6 +27,9 @@ header {
 }
 
 nav {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
   width: 100%;
   font-size: 12px;
   text-align: center;
@@ -70,5 +76,6 @@ nav {
 
   padding: 1rem 0;
 }
+
 /* } */
 </style>

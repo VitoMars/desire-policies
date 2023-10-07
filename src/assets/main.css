@@ -3,8 +3,6 @@
 #app {
   max-width: 1140px;
   margin: 0 auto;
-  /* padding: 2rem; */
-
   font-weight: normal;
 }
 
@@ -75,4 +73,32 @@ p {
     margin: 0 auto;
     font-weight: normal;
   }
+}
+
+/* Classi globali */
+.main-container {
+  background-color: white;
+}
+
+.container {
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  max-width: 900px;
+}
+
+.responsive-margin {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.title {
+  text-align: center;
+  font-size: 3.5rem;
+  font-weight: 700;
+  color: #3f4554;
+}
+
+.center {
+  text-align: center;
 }

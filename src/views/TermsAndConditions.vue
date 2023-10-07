@@ -484,12 +484,9 @@
           of Dispute, which is a written statement that sets forth the name,
           address, and contact information of the party giving it, the facts
           giving rise to the dispute, and the relief requested. You must send
-          any Notice of Dispute via email to: desire.o<a
-            href="/cdn-cgi/l/email-protection"
-            class="__cf_email__"
-            data-cfemail="f09696999399919c939f9d9d859e99939184999f9e83b0979d91999cde939f9d"
-            >[email&#160;protected]</a
-          >. Desire will send any Notice of Dispute to you by mail to your
+          any Notice of Dispute via email to: desire.o<a href="/cdn-cgi/l/email-protection" class="__cf_email__"
+            data-cfemail="f09696999399919c939f9d9d859e99939184999f9e83b0979d91999cde939f9d">[email&#160;protected]</a>.
+          Desire will send any Notice of Dispute to you by mail to your
           address if we have it, or otherwise to your email address. You and
           Desire will attempt to resolve any dispute through informal
           negotiation within sixty (60) days from the date the Notice of Dispute
@@ -631,32 +628,3 @@
     </div>
   </div>
 </template>
-
-<style>
-.main-container {
-  background-color: white;
-}
-
-.container {
-  margin: auto;
-  padding-top: 50px;
-  padding-bottom: 50px;
-  max-width: 900px;
-}
-
-.responsive-margin {
-  margin-left: 30px;
-  margin-right: 30px;
-}
-
-.title {
-  text-align: center;
-  font-size: 3.5rem;
-  font-weight: 700;
-  color: #3f4554;
-}
-
-.center {
-  text-align: center;
-}
-</style>
